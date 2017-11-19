@@ -13,3 +13,5 @@ nyc_output
 .coveralls.yml
 .vscode/
 .idea
+typing-tests/lib/
+typing-tests/test/
