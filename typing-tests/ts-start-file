@@ -1,0 +1,2 @@
+/// <reference path="../../../moment.d.ts" />
+import moment = require('../../../moment');

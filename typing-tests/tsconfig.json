@@ -1,12 +1,8 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
-    "module": "commonjs",
-    "noEmit": true,
-    "noImplicitAny": true
-  },
-  "files": [
-    "../moment.d.ts",
-    "./moment-tests.ts"
-  ]
+    "module": "system",
+    "outFile": "temp/out.js",
+    "allowJs": true
+  }
 }
